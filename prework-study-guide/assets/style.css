@@ -24,14 +24,17 @@ img {
     margin-right: auto;
 }
 
-ul {
+ul,
+ol {
     padding-left: 40px;
     font-size: 20px;
+    line-height: 1.6;
 }
 
 p {
     text-align: center;
     font-size: 30px;
+    line-height: 1.6;
   }
 
 .card {
